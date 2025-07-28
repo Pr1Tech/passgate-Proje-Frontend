@@ -1,3 +1,14 @@
+# Password Policy Management FrontEnd
+
+Projenin Settings ekranı yapılmıştır ve SpringBoot projesindeki API'lara bağlanmıştır. 
+
+# Backend Proje linki
+https://github.com/Pr1Tech/passgate-Proje-Backend
+
+# API istekleri
+
+API istekleri src/pages/Settings/Settings.jsx dosyası içerisindedir.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
